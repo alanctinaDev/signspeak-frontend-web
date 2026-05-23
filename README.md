@@ -6,16 +6,6 @@
 
 ---
 
-**Equipo de Desarrollo:**
-*   **Alan de los Santos Lopez Cetina** — Matrícula: 2202116
-*   **Ángel Jonás Rosales Gonzales** — Matrícula: 2202022
-*   **José Arturo González Flores** — Matrícula: 2202012
-*   **Cesar Enrique Bernal Zurita** — Matrícula: 2201100
-*   **Ángel David Quintana Pacheco** — Matrícula: 2102165
-*   **Cristian Daniel Lázaro Acosta** — Matrícula: 2202055
-*   **Ángel Adrián Yam Huchim** — Matricula: 2202109
-
----
 
 [![Next.js](https://img.shields.io/badge/Next.js-16.2-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
